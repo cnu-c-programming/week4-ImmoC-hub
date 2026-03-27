@@ -12,4 +12,4 @@ int main() {
     inc(NULL);
 
     return 0;
-}
+} 
