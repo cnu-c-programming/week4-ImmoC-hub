@@ -6,5 +6,5 @@ int main() {
     printf("sizeof(char*) = %zu\n", sizeof(char*));
     printf("sizeof(void*) = %zu\n", sizeof(void*));
 
-    return 0;
+    return 0; 
 }
